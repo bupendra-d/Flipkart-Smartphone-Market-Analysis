@@ -234,11 +234,3 @@ Flipkart-Smartphone-Market-Analysis/
 * Automated Data Collection Pipeline
 * Sentiment Analysis on Customer Reviews
 * Brand Recommendation System
-
-
-
-# Author
-
-*Bupendra Devegade*
-BBA (Hons.) Business Analytics
-Passionate about Data Analytics, Data Science, Business Intelligence, and Machine Learning.
